@@ -170,4 +170,5 @@ This project is for academic use only. It does not constitute financial advice o
 
 **John Wallace**  
 Trinity College Dublin – Final Year, 2025  
-[LinkedIn](www.linkedin.com/in/jay-wallace-73b1ab1b5) *(optional)*
+[LinkedIn](www.linkedin.com/in/jay-wallace-73b1ab1b5) 
+
